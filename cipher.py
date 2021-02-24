@@ -1,7 +1,7 @@
 import string
 letters = string.ascii_lowercase
 text = "plagiarism is not allowed"
-name = "talha"
+name = "blurry"
 roll = 26
 
 def substitiution_cipher(text=text, key=roll, left_shift=True):
